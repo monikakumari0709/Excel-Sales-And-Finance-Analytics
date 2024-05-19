@@ -15,7 +15,7 @@
 
     **6.** Present _[Top 5 Country](https://github.com/monikakumari0709/Excel-Sales-And-Finance-Analytics/blob/main/Top%205%20country%202021.pdf)_
 
- **6.** Present _[New Products 2021](https://github.com/monikakumari0709/Excel-Sales-And-Finance-Analytics/blob/main/New%20Products%202021.pdf)_
+ **7.** Present _[New Products 2021](https://github.com/monikakumari0709/Excel-Sales-And-Finance-Analytics/blob/main/New%20Products%202021.pdf)_
 
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
